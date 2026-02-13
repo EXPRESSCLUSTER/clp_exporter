@@ -14,11 +14,13 @@
    ```sh
    cd clp_exporter/src
    ```
-1. Initialize.
+1. Initialize and build clp_exporter.
+   ```sh
+   go mod init clp_exporter
+   ```
    ```sh
    go mod tidy
    ```
-1. Build.
    ```sh
    go build
    ```
