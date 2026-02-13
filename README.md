@@ -10,9 +10,9 @@
    ```sh
    git clone https://github.com/EXPRESSCLUSTER/clp_exporter.git
    ```
-1. Move to clp_exporter directory.
+1. Move to `src` directory.
    ```sh
-   cd clp_exporter
+   cd clp_exporter/src
    ```
 1. Initialize.
    ```sh
